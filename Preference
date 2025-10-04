@@ -1,2 +1,8 @@
 Theme:
-Monokai / Dark+ Theme
+ * Monokai / Dark+ Theme
+
+
+Vs Code Extensions:
+
+ * ESLint - If there is any syntactical error, ESLint shows us that error.
+ * Prettier - code formatter.
